@@ -1,0 +1,7 @@
+Install express.js
+Install Language Beautifier in atom
+Install JS Standards 
+Install socket.io
+Install redis
+Install xml2js
+Install xmlbuilder
