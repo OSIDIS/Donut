@@ -1,0 +1,8 @@
+{
+  "0x01":{"name":"File-not-found","message":"File not found"},
+  "0x02":{"name":"Recipe-Extension","message":"Recipe extension not proper , should be .xml"},
+  "0x03":{"name":"Recipe-Hashcode","message":"Recipe Hashcode not valid , file altered use inbuilt editor to edit recipes"},
+  "0x04":{"name":"Recipe-not-found","message":"Recipe not found check /recipe for existince"},
+  "0x05":{"name":"Logs-path-not-defined","message":"Check config/OSIDIS.config.json for the LOG_PATH not accessible"},
+  "0x06":{"name":"Recipe-path-not-defined","message":"Check config/OSIDIS.config.json for the RECIPE_PATH not accessible"}
+}

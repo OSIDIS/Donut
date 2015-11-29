@@ -1,0 +1,6 @@
+{
+  "LOGS_PATH":"logs/",
+  "RECIPES_PATH":"recipes/",
+  "DONUT_IP_ADDRESS":"127.0.0.1",
+  "DONUT_PORT":"8081"
+}
